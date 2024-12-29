@@ -16,7 +16,7 @@ Follow these steps to set up and run the Typing Test Program:
 ## Instructions
 1. The program will fetch 15 random words from an API and display them.
 2. Start typing the displayed words when prompted.
-3. The program calculates your typing speed in Words Per Minute (WPM) based on the number of characters typed correctly and the time taken.
+3. The program calculates your typing speed in Words Per Minute (WPM) based on the number of characters typed correctly and the time taken along with total number of correct words typed.
 ## Sample Output
 ```
 Please wait. Loading words...
@@ -27,6 +27,7 @@ Start Typing:
 quick brave clever gentle loud shy quiet calm cool fast eager proud soft wise slow
 
 Your typing speed is 45 WPM!
+Correct words: 15/15
 ```
 __Note:__ If you do not type all 15 words, the program will ask you to try again.
 ## Contributing
