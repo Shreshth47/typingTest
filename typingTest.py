@@ -38,4 +38,4 @@ else:
     
   speed = int((total_chars_correct*60)/(5*time_taken))
   print(f'Your typing speed is {speed} WPM!')
-  
+  print(f"Correct words: {count}/15")
