@@ -16,7 +16,7 @@ Follow these steps to set up and run the Typing Test Program:
 ## Instructions
 1. The program will fetch 15 random words from an API and display them.
 2. Start typing the displayed words when prompted.
-3. The program calculates your typing speed in Words Per Minute (WPM) based on the number of characters typed correctly and the time taken along with total number of correct words typed.
+3. The program calculates your typing speed in Words Per Minute (WPM) based on the number of characters typed correctly and the time taken along with total number of words typed correctly.
 ## Sample Output
 ```
 Please wait. Loading words...
